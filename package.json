@@ -1,0 +1,27 @@
+{
+  "name": "restaurant-page",
+  "version": "1.0.0",
+  "description": "Creating a restaurant page using dom manipulation by dynamically rendering ",
+  "private": true,
+  "scripts": {
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "yes"
+  },
+  "author": "nimishgo",
+  "license": "ISC",
+  "devDependencies": {
+    "css-loader": "^6.7.1",
+    "html-webpack-plugin": "^5.5.0",
+    "style-loader": "^3.3.1",
+    "webpack": "^5.74.0",
+    "webpack-cli": "^4.10.0"
+  },
+  "dependencies": {
+    "build": "^0.1.4",
+    "export": "^0.1.337",
+    "import": "^0.0.6"
+  }
+}
