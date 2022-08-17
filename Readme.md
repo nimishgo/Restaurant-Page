@@ -9,4 +9,4 @@ Steps to run :
 
 1. `npm install`
 2. `npm run build`
-3. Run it using liveserver
+3. `npm start`
